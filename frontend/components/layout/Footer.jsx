@@ -46,7 +46,7 @@ export default function Footer() {
           <h3 className="text-white font-medium text-sm mb-3">Liên hệ</h3>
           <ul className="space-y-2 text-sm text-stone-400">
             <li className="flex items-center gap-2">
-              <Mail size={14} /> thinhdc2196n900@vlvh.ctu.edu.vn
+              <Mail size={14} /> p.thinh.ks@gmail.com
             </li>
             <li className="flex items-center gap-2">
               <Phone size={14} /> 0878 861 875
